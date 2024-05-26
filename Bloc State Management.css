@@ -1,0 +1,26 @@
+lib/
+  blocs/
+    auth_bloc/
+      auth_bloc.dart
+      auth_event.dart
+      auth_state.dart
+    student_bloc/
+      student_bloc.dart
+      student_event.dart
+      student_state.dart
+  models/
+    student.dart
+  repositories/
+    auth_repository.dart
+    student_repository.dart
+  screens/
+    login_screen.dart
+    signup_screen.dart
+    home_screen.dart
+    student_form_screen.dart
+    student_list_screen.dart
+  widgets/
+    custom_bottom_nav.dart
+    student_card.dart
+  main.dart
+  app.dart
